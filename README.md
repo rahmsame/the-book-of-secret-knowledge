@@ -29,8 +29,9 @@
   <sub>Created by
   <a href="https://twitter.com/trimstray">trimstray</a> and
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
-  <br> 
-    <p> "Hi there! I'm Sameer Rahman. I'm editing my readme." </p>
+    </br>
+  <p> "Hi there! I'm Sameer Rahman. I'm editing my readme." </p>
+    
 </div>
 
 <br>
